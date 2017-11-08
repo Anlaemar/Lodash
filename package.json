@@ -1,0 +1,23 @@
+{
+  "name": "json_practice_goodwin",
+  "version": "1.0.0",
+  "description": "Lodash homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anlaemar/Lodash.git"
+  },
+  "author": "Adam Goodwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anlaemar/Lodash/issues"
+  },
+  "homepage": "https://github.com/Anlaemar/Lodash#readme",
+  "dependencies": {
+    "for-each": "^0.3.2",
+    "lodash": "^4.17.4"
+  }
+}
